@@ -21,7 +21,7 @@ Welcome to my GitHub!
 
 ### 💠 Github stats
 <p>
-<img src"https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=radical">
+![Sendoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=radical)
 </p>
 
 ---
