@@ -8,7 +8,9 @@ Welcome to my GitHub!
 ### ✔️ I'm currently learning
 - Laravel
 - Vue
+- Docker
 - Angular
+- TypeScript
 
 ---
 
@@ -26,3 +28,7 @@ Welcome to my GitHub!
 - LinkedIn: <a href = "www.linkedin.com/in/sendoa-avedillo">Sendoa Avedillo</a>
 - Email: sendoave@gmail.com
 - Website: coming soon
+
+### <h3 align="center>👀 Visitors count</h3>
+<p align="center">https://profile-counter.glitch.me/sendoaa/count.svg</p>
+
