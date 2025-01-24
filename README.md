@@ -32,5 +32,5 @@ Welcome to my GitHub!
 ---
 
 ### <h3 align="center">👀 Visitors count</h3>
-<img align="center" src="https://profile-counter.glitch.me/sendoaa/count.svg">
+<p align="center"><img src="https://profile-counter.glitch.me/sendoaa/count.svg"></p>
 
