@@ -20,8 +20,8 @@ Welcome to my GitHub!
 ---
 
 ### 💠 Github stats
-![Sendoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoaa&layout=compact&theme=github_dark)
+<p>![Sendoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=github_dark)</p>
+<p>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoaa&layout=compact&theme=github_dark)</p>
 
 ---
 
