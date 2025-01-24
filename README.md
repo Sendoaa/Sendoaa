@@ -10,11 +10,17 @@ Welcome to my GitHub!
 - Vue
 - Angular
 
+---
+
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website.
 
+---
+
 ### 💠 Github stats
 - Pending
+
+---
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "www.linkedin.com/in/sendoa-avedillo">Sendoa Avedillo</a>
