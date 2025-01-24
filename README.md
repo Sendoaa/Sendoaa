@@ -20,7 +20,9 @@ Welcome to my GitHub!
 ---
 
 ### 💠 Github stats
+<p>
 <img src"https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=radical">
+</p>
 
 ---
 
@@ -32,5 +34,7 @@ Welcome to my GitHub!
 ---
 
 ### <h3 align="center">👀 Visitors count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/sendoaa/count.svg"></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sendoaa/count.svg">
+</p>
 
