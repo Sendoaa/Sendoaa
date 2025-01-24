@@ -20,7 +20,7 @@ Welcome to my GitHub!
 ---
 
 ### 💠 Github stats
-![Sendoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=radical)
+![Sendoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=github_dark)
 
 ---
 
