@@ -1,7 +1,9 @@
 <img src= "https://github.com/Sendoaa/Sendoaa/blob/main/images/Presentation_Card.png?raw=true"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Sendoa
+Welcome to my GitHub!
+
+---
 
 ### ✔️ I'm currently learning
 - Laravel
