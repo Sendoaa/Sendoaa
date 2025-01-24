@@ -9,6 +9,7 @@ Welcome to my GitHub!
 - Laravel
 - Vue
 - Docker
+- Tailwind CSS
 - Angular
 - TypeScript
 
