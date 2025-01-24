@@ -25,7 +25,7 @@ Welcome to my GitHub!
 ---
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "www.linkedin.com/in/sendoa-avedillo">Sendoa Avedillo</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/sendoa-avedillo">Sendoa Avedillo</a>
 - Email: sendoave@gmail.com
 - Website: coming soon
 
