@@ -20,7 +20,7 @@ Welcome to my GitHub!
 ---
 
 ### 💠 Github stats
-- Pending
+<img src"https://github-readme-stats.vercel.app/api?username=sendoaa&show_icons=true&theme=radical">
 
 ---
 
