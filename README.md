@@ -29,6 +29,8 @@ Welcome to my GitHub!
 - Email: sendoave@gmail.com
 - Website: coming soon
 
+---
+
 ### <h3 align="center">👀 Visitors count</h3>
-<p align="center">https://profile-counter.glitch.me/sendoaa/count.svg</p>
+<img align="center" src="https://profile-counter.glitch.me/sendoaa/count.svg">
 
