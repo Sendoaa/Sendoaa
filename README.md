@@ -17,6 +17,7 @@ Welcome to my GitHub!
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website.
+- Azure DevOps
 
 ---
 
