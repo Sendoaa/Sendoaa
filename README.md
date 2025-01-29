@@ -7,11 +7,12 @@ Welcome to my GitHub!
 
 ### ✔️ I'm currently learning
 - Laravel
-- Vue
+- Vue.js
 - Docker
 - Tailwind CSS
 - Angular
 - TypeScript
+- Next.js
 
 ---
 
