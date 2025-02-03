@@ -13,6 +13,7 @@ Welcome to my GitHub!
 - Angular
 - TypeScript
 - Next.js
+- Nest.js
 
 ---
 
